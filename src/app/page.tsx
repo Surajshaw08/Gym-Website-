@@ -291,7 +291,7 @@ export default function Page() {
                   </div>
                   
                   <blockquote className="text-gray-300 mb-8 text-lg leading-relaxed italic">
-                    "{testimonial.text}"
+                    &quot;{testimonial.text}&quot;
                   </blockquote>
                   
                   <div className="flex items-center gap-4 mb-4">

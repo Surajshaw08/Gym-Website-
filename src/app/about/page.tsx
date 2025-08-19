@@ -162,7 +162,7 @@ export default function AboutPage() {
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl font-bold mb-6 text-orange-400">Ready to Transform Your Life?</h2>
           <p className="text-xl text-gray-300 mb-8">
-            Join hundreds of members who've already started their journey. Your future self will thank you.
+            Join hundreds of members who&apos;ve already started their journey. Your future self will thank you.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="px-8 py-4 bg-gradient-to-r from-orange-500 to-red-500 text-white font-bold rounded-lg hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-orange-500/25">
