@@ -38,7 +38,7 @@ export default function Page() {
     {
       name: 'Sarah Johnson',
       rating: 5,
-      text: 'Incredible transformation! Lost 35 pounds, gained muscle, and completely changed my relationship with fitness. The personalized approach here is unmatched.',
+  text: 'Incredible transformation! Lost 35 pounds, gained muscle, and completely changed my relationship with fitness. The personalized approach here is unmatched.',
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzzIJDNaWFPDga2VWx9G4rM2IST-kPixumaw&s',
       achievement: 'Lost 35 lbs in 6 months',
       program: 'Strength & Weight Loss'
@@ -46,7 +46,7 @@ export default function Page() {
     {
       name: 'Mike Rodriguez',
       rating: 5,
-      text: 'From couch potato to marathon runner! The trainers here didn\'t just push my limits—they helped me discover I had none. Best investment I\'ve ever made.',
+  text: 'From couch potato to marathon runner! The trainers here didn\'t just push my limits—they helped me discover I had none. Best investment I\'ve ever made.',
       image: 'https://media.licdn.com/dms/image/v2/D5603AQHf5w3z21mZAQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1691700849696?e=2147483647&v=beta&t=qBRc6DRQco5jW4sTy-NHz0lg-NMcdWgQZwkZsHp8nEE',
       achievement: 'Completed 3 marathons',
       program: 'Endurance Training'
@@ -54,7 +54,7 @@ export default function Page() {
     {
       name: 'Emily Chen',
       rating: 5,
-      text: 'This isn\'t just a gym—it\'s a lifestyle revolution. The community, the equipment, the expertise... everything exceeded my expectations. Life-changing experience!',
+  text: 'This isn&apos;t just a gym—it&apos;s a lifestyle revolution. The community, the equipment, the expertise... everything exceeded my expectations. Life-changing experience!',
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShZYrWBtDHzjf6aukQOiNdLgr2rT6q-UIC8g&s',
       achievement: 'Gained 15 lbs muscle',
       program: 'Body Recomposition'

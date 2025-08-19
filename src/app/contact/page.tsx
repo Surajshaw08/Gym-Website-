@@ -7,7 +7,7 @@ export default function ContactPage() {
         {/* Left: Contact Info */}
         <div className="flex flex-col justify-center p-10 gap-8 bg-gradient-to-br from-black via-gray-900 to-black">
           <h1 className="text-5xl font-bold text-orange-500 mb-2">Contact Us</h1>
-          <p className="text-lg text-gray-300 mb-6">We'd love to hear from you! Reach out with any questions, feedback, or to schedule a visit.</p>
+          <p className="text-lg text-gray-300 mb-6">We&apos;d love to hear from you! Reach out with any questions, feedback, or to schedule a visit.</p>
           <div className="space-y-6">
             <div className="flex items-center gap-4">
               <Mail className="w-7 h-7 text-orange-400" />

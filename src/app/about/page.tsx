@@ -58,7 +58,7 @@ export default function AboutPage() {
             Where Transformation Begins
           </h1>
           <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-            At Bodyshape Gym, we don't just build bodies – we forge champions, 
+            At Bodyshape Gym, we don&apos;t just build bodies – we forge champions, 
             create communities, and transform lives through the power of fitness.
           </p>
           <div className="flex justify-center items-center gap-6 text-sm text-gray-400">
@@ -104,13 +104,13 @@ export default function AboutPage() {
             </p>
             <p>
               What started as a modest 3,000 sq ft space has evolved into a 15,000 sq ft state-of-the-art facility. 
-              But our growth isn't measured just in square footage – it's in the lives we've transformed, the confidence 
-              we've built, and the community we've fostered. From helping new mothers regain their strength to training 
+              But our growth isn&apos;t measured just in square footage – it&apos;s in the lives we&apos;ve transformed, the confidence 
+              we&apos;ve built, and the community we&apos;ve fostered. From helping new mothers regain their strength to training 
               athletes for competition, every success story fuels our passion.
             </p>
             <p>
-              Today, we stand proud as more than just a gym. We're a movement, a family, and a testament to what's 
-              possible when dedication meets opportunity. Our members don't just work out here – they belong here.
+              Today, we stand proud as more than just a gym. We&apos;re a movement, a family, and a testament to what&apos;s 
+              possible when dedication meets opportunity. Our members don&apos;t just work out here – they belong here.
             </p>
           </div>
         </div>
