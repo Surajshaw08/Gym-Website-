@@ -36,7 +36,7 @@ export default function ServicePage() {
         Discover our range of professional fitness services designed to help you achieve your health and wellness goals. Whether you’re a beginner or an athlete, we have something for everyone.
       </p>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 w-full max-w-5xl">
-        {services.map((service, idx) => (
+        {services.map((service) => (
           <div
             key={service.title}
             className="bg-gray-900/70 border border-orange-500/20 rounded-2xl p-8 flex flex-col items-center shadow-lg hover:shadow-orange-500/20 transition-shadow duration-300"
